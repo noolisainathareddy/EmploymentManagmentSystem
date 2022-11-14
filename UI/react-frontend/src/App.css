@@ -47,3 +47,10 @@
   text-align: center;
   color: white; 
 }
+
+.btn{
+  width:auto !important; 
+  text-align:left !important;
+  background-color: blue !important;
+  color: white ! important;
+}
